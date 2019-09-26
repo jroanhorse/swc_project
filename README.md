@@ -2,7 +2,7 @@
 
 Work that we did to setup a repository
 
-##Install
+## Install
 
 To install, clone this repository.
 
